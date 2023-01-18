@@ -1,22 +1,13 @@
 👋 Hi, I’m here to help with Python and Linux stuff
 
 
-\- Personal OS: Windows user since Apple's fall from perceived grace
-
+\- Personal OS: Windows, macOS
 \- Server OS at work: SLES
-
-\- Server OS for personal projects: RedHat
-
+\- Cloud stuff: Azure
 \- Continuous Monitoring: Elastic, Cabana, Grafana
-
-\- Programming Languages: Python, C++ (scratched the surface of: HTML, CSS, JS, Java, BASIC, Lua)
-
-\- IDE: JetBrains (Pycharm, CLion)
-
+\- Programming Languages: Python, C++ (scratched the surface of: Java, HTML, CSS, JS, BASIC, Lua)
+\- IDE: JetBrains (Pycharm, CLion) with VIM plugin
 \- Text Editor: VIM
-
 \- Phone OS: iOS
-
 \- Instruments: Trumpet, Piano
-
 \- Languages: English, passable Spanish, awful French, future Korean
