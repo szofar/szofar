@@ -11,4 +11,7 @@
     * Instruments: Trumpet, Piano
     * Languages: English, passable Spanish, awful French, future Korean
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szofar)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szofar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szofar&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
