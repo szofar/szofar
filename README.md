@@ -10,3 +10,5 @@
     * Phone OS: iOS
     * Instruments: Trumpet, Piano
     * Languages: English, passable Spanish, awful French, future Korean
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szofar)](https://github.com/anuraghazra/github-readme-stats)
