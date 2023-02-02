@@ -12,5 +12,5 @@
     * Languages: English, passable Spanish, awful French, future Korean
 
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=szofar&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=szofar&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats-two-liart-83.vercel.app/api/top-langs/?username=szofar&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats-two-liart-83.vercel.app/api/top-langs/?username=szofar&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
