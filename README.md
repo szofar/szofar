@@ -1,5 +1,7 @@
 👋 Hi, I’m here to help you build C++ and Python solutions in Linux
 
+Beyond coding, I enjoy playing trumpet professionally, practicing sun-worship (walking/playing soccer), and reading. Game: Hollow Knight
+
     * Personal OS: Windows, macOS
     * Server OS at work: SLES
     * Cloud stuff: Cloud Foundry, Azure
